@@ -16,3 +16,19 @@ h1 {
 p {
     color: aquamarine;
 }
+
+h2 {
+    color:white;
+    font-weight: 300;
+    font-size: calc(40/16)rem;
+}
+
+h3 {
+    color: gray;
+    font-size: calc(21/16)rem;
+}
+
+h4 {
+    text-align: right;
+    color: gray;
+}
